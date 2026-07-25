@@ -1,0 +1,6 @@
+{
+  "name": "Booking & Appointment Portal",
+  "description": "Interactive appointment scheduling system with date/time slot selection, multi-step booking form, conflict prevention API, and host management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
